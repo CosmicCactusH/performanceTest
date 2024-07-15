@@ -1,5 +1,6 @@
 # performanceTest
 服务端性能测试脚本
+张佳民
 
 v1-v4是调试文件，v5及以后是测试正式执行文件，测试过程中需要读取数据文件questions_v2.csv，
 
@@ -17,4 +18,7 @@ jmeter -n -t ./aosu_test_script/IM-GPT_V3.jmx -l ./aosu_test_script/NonUIReport/
 还有一个目录是：NonUIReport，这个目录是在执行non-gui时指定的目录，用于存储non-gui执行时生成的数据文件，格式可以是jtl、csv、xml任意一种，这里指定了csv格式，文件名用日期加编号命名，如图：
 
 <img width="221" alt="image" src="https://github.com/user-attachments/assets/13fd7dc4-f1c2-4087-9e63-9d3ea5ff14f6">
+
+
+
 
