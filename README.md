@@ -19,6 +19,18 @@ jmeter -n -t ./aosu_test_script/IM-GPT_V3.jmx -l ./aosu_test_script/NonUIReport/
 
 <img width="221" alt="image" src="https://github.com/user-attachments/assets/13fd7dc4-f1c2-4087-9e63-9d3ea5ff14f6">
 
+LocalReport生成的数据报告如下：
+
+<img width="1815" alt="image" src="https://github.com/user-attachments/assets/925390f0-b08e-4d5b-b4b0-36a9342bf753">
+
+HTML报告如下：
+
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/22c1029c-5cd5-46a4-b5b6-ac421eaa631b">
+
+NonUIReport生成的数据报告同LocalReport
+
+
+
 
 
 
